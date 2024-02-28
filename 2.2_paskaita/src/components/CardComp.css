@@ -1,0 +1,24 @@
+.mainCard {
+  background-color: rgb(138, 132, 145);
+  width: 30%;
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+}
+
+.imgCard {
+  width: 100%;
+  height: 70%;
+  background-color: burlywood;
+}
+
+.title {
+  width: 100%;
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* padding: 1rem; */
+  color: black;
+  background-color: rgb(85, 67, 44);
+}

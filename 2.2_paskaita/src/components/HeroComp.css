@@ -1,0 +1,12 @@
+.backgroundHero {
+  background-color: rgb(95, 42, 165);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem 0 5rem 0;
+}
+
+h1 {
+  margin: 0;
+}
